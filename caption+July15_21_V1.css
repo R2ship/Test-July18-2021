@@ -1,0 +1,29 @@
+caption{
+    background:grey;
+    font-weight:bold;
+    color:white;
+    font-size:200%;
+     
+  }
+  #img1,#img2,#img3{
+    height:100px;
+    width:100px;
+  }
+  table{
+    border-collapse:collapse;
+    background:grey;
+    height:auto;
+    width:auto;
+    margin:auto;
+    
+    
+  }
+  td{
+    padding:10px;
+    border-bottom:2px solid;
+    color:white
+  }
+  #text1,#text2{
+    line-height:3px;
+  }
+    
